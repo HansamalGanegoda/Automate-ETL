@@ -1,0 +1,6 @@
+id,file_name,transfer_date,status
+1,file1.csv,2024-09-21 10:00:00,transferred
+2,file2.csv,2024-09-21 10:05:00,transferred
+3,file3.csv,2024-09-21 10:10:00,transferred
+4,file4.csv,2024-09-21 10:15:00,transferred
+5,file5.csv,2024-09-21 10:20:00,transferred
